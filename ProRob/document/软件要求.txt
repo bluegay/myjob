@@ -1,0 +1,9 @@
+一、功能：
+1、将表格DEG-PEAK中的物质（绿色标记的），在KEGG Fiehn Lib X5表格中找出，并将KEGG Fiehn Lib X5中对应的所有信息输出到新的数据表：DEG-PEAK annotation。
+2、表格DEG-PEAK annotation的格式与KEGG Fiehn Lib X5表格保持一致。
+
+二、其他：
+1、要有软件的说明书，工作框架图。
+2、软件名称命名为：“ProRob组学分析软件”。
+3、能够正常运行，并能实现功能一的要求。
+4、能通过软件做测试中心的测试，能拿到软件做测试报告。
